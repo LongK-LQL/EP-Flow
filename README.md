@@ -17,8 +17,7 @@ The method is evaluated on disordered crystal structure benchmarks derived from 
 
 The source code, implementation details, and processed benchmark datasets are currently being organized.
 
-**We plan to make the code and datasets publicly available following the official publication of the paper**, subject to applicable data redistribution permissions.
-
+**We plan to publicly release the code and datasets, subject to applicable data redistribution permissions.**
 ## Paper
 
 **EP-Flow: Disordered Crystal Structure Prediction without Site-Level Annotations**
